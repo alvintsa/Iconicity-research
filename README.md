@@ -1,4 +1,4 @@
-# Project Name
+# Iconicity
 
 This project requires a Conda environment to manage dependencies. Follow the steps below to create the environment and install the necessary packages.
 
